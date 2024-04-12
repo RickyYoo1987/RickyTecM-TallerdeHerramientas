@@ -1,0 +1,5 @@
+#Please read carefully
+##This code is offer as is and no Garanty is provided
+##You need to install AZCopy on the migration for this to work you can find the link in here:
+
+https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy
