@@ -15,7 +15,7 @@ Para tal efecto, mi propuesta es renombrar los archivos de manera única, utiliz
 
 Ejemplo
 
-Castillo.RicardoM@ricardolabs.info_ElProfesorDaríoEsMuyProfesional.pst
+Castillo.RicardoM@ricardolabs.info_ElProfesorDarioEsMuyProfesional.pst
 
 #  Arquitectura
 
