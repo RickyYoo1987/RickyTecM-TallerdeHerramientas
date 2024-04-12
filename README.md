@@ -15,9 +15,9 @@ Para tal efecto, mi propuesta es renombrar los archivos de manera única, utiliz
 
 Ejemplo
 
-Castillo.RicardoM@ricardolabs.info_ElProfesorAlfredoEsMuyProfesional.pst
+Castillo.RicardoM@ricardolabs.info_ElProfesorDaríoEsMuyProfesional.pst
 
-# Arquitectura
+#  Arquitectura
 
 Para tal efecto, se requiere:
 
@@ -26,21 +26,21 @@ Requerimientos
 
 A.- Servidor Windows preferentemente mayor a 2012 B.- Acceso Blobs de Azure C.- Cuentas con privilegios.
 
-# Configuración
+#  Configuración
 
 Leer el archivo Config.txt
 
-# Uso / Contribución
+#  Uso / Contribución
 
 Si deseas colaborar con más ideas para este código puedes hacerlo a través de una una branch llamada develop.
 
-# Ligas de Utilidad:
+#  Ligas de Utilidad:
 
 https://learn.microsoft.com/en-us/purview/use-network-upload-to-import-pst-files
 
 https://ricardolabs.sharepoint.com/sites/Tallerdeproductividadbasadaenherramientastecnolgicas
 
-# Para consultar la liga donde ver un vídeo de demostración:
+#  Para consultar la liga donde ver un vídeo de demostración:
 
 https://utmedu-my.sharepoint.com/:v:/g/personal/al03003446_tecmilenio_mx/EXTcn1vzeMlPhmXGDpxfzl4B8Mc5n_80qnSqU4RXRTN56w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=J78sbO
 
