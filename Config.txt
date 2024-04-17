@@ -2,4 +2,20 @@
 ##This code is offer as is and no Garanty is provided
 ##You need to install AZCopy on the migration for this to work you can find the link in here:
 
+## Config requirements
+
+Archivos de configuración:
+
+-Se requieren archivos PST
+-Se requiere archivo ejecutable AZ COPY
+
 https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy
+
+MS Ofrece comandos básicos acerca e esta herramienta:
+
+Ejemplo 1:
+
+# Este comando mueve todos los archivos de un contenedor hacia la nube (no importa la extensión):
+
+azcopy copy "C:\local\path" "https://account.blob.core.windows.net/mycontainer1/?sv=2018-03-28&ss=bjqt&srt=sco&sp=rwddgcup&se=2019-05-01T05:01:17Z&st=2019-04-30T21:01:17Z&spr=https&sig=MGCXiyEzbtttkr3ewJIh2AR8KrghSy1DGM9ovN734bQF4%3D" --recursive=true
+
