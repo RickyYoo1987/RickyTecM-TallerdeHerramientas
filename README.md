@@ -26,6 +26,9 @@ Requerimientos
 
 A.- Servidor Windows preferentemente mayor a 2012 B.- Acceso Blobs de Azure C.- Cuentas con privilegios.
 
+![image](https://github.com/RickyYoo1987/RickyTecM-TallerdeHerramientas/assets/126431920/90f40f20-044e-40a4-abff-caff002b17d0)
+
+
 #  Configuración
 
 Leer el archivo Config.txt
