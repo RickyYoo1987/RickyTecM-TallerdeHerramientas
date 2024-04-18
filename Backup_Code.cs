@@ -1,5 +1,5 @@
  
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Text;
 
@@ -34,7 +34,7 @@ namespace AZUpload
                                     ArgumentList = {
                                  "copy",
                                  @"D:\Temp\PST\RicardoLab1@ricardolabs.info\*pst",
-                                 "https://rickystore2.blob.core.windows.net/rickyblob2?sp=rwl&st=2023-08-19T19:45:49Z&se=2023-08-27T03:45:49Z&spr=https&sv=2022-11-02&sr=c&sig=STAczOUfByqMCa2jAjej5Y2XUmcoWDYjrhe6eHpc0zY%3D",
+                                 "https://rickystore2.blob.core.windows.net/rickyblob2?sp=r&st=2024-04-18T19:31:52Z&se=2024-04-19T03:31:52Z&spr=https&sv=2022-11-02&sr=c&sig=1sJj3EwlzitVmF5FsJ3Gt2XoG8KkkSpbdQJXeC2y0TY%3D",
                                  "--check-length=false"
                                                 }
                                 };
