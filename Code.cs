@@ -29,7 +29,7 @@ namespace AZUpload
                     switch (xMenuChoiceA) 
                      {
                         case 1: 
-                                var info = new System.Diagnostics.ProcessStartInfo(@"C:\temp\AZCopy\azcopy.exe")
+                                var info = new System.Diagnostics.ProcessStartInfo(@"C:\temp\azcopy\azcopy.exe")
                                 {
                                     ArgumentList = {
                                  "copy",
