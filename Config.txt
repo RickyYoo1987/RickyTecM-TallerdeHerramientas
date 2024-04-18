@@ -20,6 +20,29 @@ Ejemplo 1:
 azcopy copy "C:\local\path" "https://account.blob.core.windows.net/mycontainer1/?sv=2018-03-28&ss=bjqt&srt=sco&sp=rwddgcup&se=2019-05-01T05:01:17Z&st=2019-04-30T21:01:17Z&spr=https&sig=MGCXiyEzbtttkr3ewJIh2AR8KrghSy1DGM9ovN734bQF4%3D" --recursive=true
 
 
+Lista de comandos:
+
+Command	Description
+azcopy bench	Runs a performance benchmark by uploading or downloading test data to or from a specified location.
+azcopy copy	Copies source data to a destination location
+azcopy doc	Generates documentation for the tool in Markdown format.
+azcopy env	Shows the environment variables that can configure AzCopy's behavior.
+azcopy jobs	Subcommands related to managing jobs.
+azcopy jobs clean	Remove all log and plan files for all jobs.
+azcopy jobs list	Displays information on all jobs.
+azcopy jobs remove	Remove all files associated with the given job ID.
+azcopy jobs resume	Resumes the existing job with the given job ID.
+azcopy jobs show	Shows detailed information for the given job ID.
+azcopy list	Lists the entities in a given resource.
+azcopy login	Logs in to Microsoft Entra ID to access Azure Storage resources.
+azcopy login status	Lists the entities in a given resource.
+azcopy logout	Logs the user out and terminates access to Azure Storage resources.
+azcopy make	Creates a container or file share.
+azcopy remove	Delete blobs or files from an Azure storage account.
+azcopy sync	Replicates the source location to the destination location.
+azcopy set-properties	Change the access tier of one or more blobs and replace (overwrite) the metadata, and index tags of one or more blobs.
+
+
 
 
 
